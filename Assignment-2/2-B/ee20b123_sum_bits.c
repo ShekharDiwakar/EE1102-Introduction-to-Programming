@@ -16,14 +16,14 @@ Class comments
 Your work
 Graded
 
-EE20B100_date.c
+EE20B123_date.c
 C
 
-EE20B100_sum_bits.c
+EE20B123_sum_bits.c
 C
 
-EE20B100_tax.c
-C
+EE20B123 _tax.c
+
 Private comments
 int main()
 {
